@@ -18,3 +18,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` kotlin
 val btnA = findByViewId(R.id.btnA)
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
