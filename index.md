@@ -6,3 +6,4 @@
 ###### `<h6>` Header 6
 
 ###### example header of github
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
